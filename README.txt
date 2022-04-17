@@ -2,6 +2,7 @@
 
 
 Development platform to test various web deployment methods.
+Multilingual domain name demonstration.
 
 
 https://www.danzhutou.com
